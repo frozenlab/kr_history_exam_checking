@@ -1,3 +1,4 @@
 streamlit
 pandas
 openpyxl
+git+https://github.com/frozenlab/kr_history_exam_DB.git
