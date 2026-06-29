@@ -58,6 +58,6 @@ class ExamGrader:
         return {
             "점수" : earned,
             "만점" : total,
-            "정답수" : sum(d["정오"] for d in details)
+            "정답수" : sum(d["정오"] for d in details),
             "상세결과" : details
         }
